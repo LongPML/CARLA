@@ -1,3 +1,3 @@
 # CARLA
 
-- These are basic functions builed by CARLA in `agent`.
+- These are basic functions builed by CARLA in `agents`.
